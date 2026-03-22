@@ -46,7 +46,14 @@
 - 🧹 Cleaned dataset using Pandas
 - 📈 Visualized insights using Matplotlib
 
-(More projects coming soon...)
+### 🏏 IPL Match Analysis Dashboard
+- 📊 Interactive dashboard built using Python, Pandas, Plotly, and Streamlit
+- 🔍 Performed EDA to analyze team performance, win patterns, and toss impact
+- 📈 Included interactive filters (Season, Team, Venue) and dynamic visualizations
+- 🚀 Deployed as a web app for easy data exploration
+- 🔗 Live Demo: https://ipl-dashboard-rishabh.streamlit.app/
+- 🔗 GitHub Repo:
+
 
 ---
 
