@@ -51,7 +51,7 @@
 - 🔍 Performed EDA to analyze team performance, win patterns, and toss impact
 - 📈 Included interactive filters (Season, Team, Venue) and dynamic visualizations
 - 🚀 Deployed as a web app for easy data exploration
-- 🔗 Live Demo: <a https://ipl-dashboard-rishabh.streamlit.app/ " target="_blank">Open App</a>
+- 🔗 Live Demo: https://ipl-dashboard-rishabh.streamlit.app/ 
 - 🔗 GitHub Repo:https://github.com/rishabh8695/IPL---Dashboard
 
 
